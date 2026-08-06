@@ -1,0 +1,13 @@
+# Imported library
+
+pip install reportlab
+pip install reportlab pillow
+
+# Create an executable file from the Python script using PyInstaller
+pip install pyinstaller 
+    pyinstaller --onefile "<script_name>.py" or python -m PyInstaller --onefile tnc_tests.py
+    inside of the dist folder, you will find the executable file that can be run on any Windows machine without requiring Python to be installed.
+
+
+
+By Kaio Gomes
