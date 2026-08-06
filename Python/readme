@@ -1,7 +1,0 @@
-Objective: The purpose of this program is to create an quickly automation to colect TNC prompts in jpg to facilit the understanding and reporting of network's problems.
-
-# Concepts: This programs merge two languages, Python and powershell script
-
-POWERSHELL
-
-Test-NetConnection = TEST specific points of a specific connection
