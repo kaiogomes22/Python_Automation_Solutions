@@ -1,0 +1,9 @@
+# Ignora a Bolha Virtual e caches
+.venv/
+__pycache__/
+
+# Ignora os Pesos da Inteligência Artificial (baixados na hora)
+yolov8n.pt
+
+# Ignora o Banco de Dados Local
+estoque.db

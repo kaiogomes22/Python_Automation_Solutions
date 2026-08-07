@@ -1,0 +1,15 @@
+
+
+# KEEP ORGANIZED AND COMMENTED
+python -m venv .venv
+
+# VIRTUAL
+.\.venv\Scripts\activate
+
+# LIBRARIES TO IMPORT AND INSTALL
+
+pip install -r requirements.txt / flet-desktop
+
+pip
+# INITIATE THE APP  
+python app_inventory.py
