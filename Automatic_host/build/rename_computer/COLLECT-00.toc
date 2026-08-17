@@ -1,0 +1,23 @@
+([('VCRUNTIME140.dll', 'C:\\Python313\\VCRUNTIME140.dll', 'BINARY'),
+  ('_bz2.pyd', 'C:\\Python313\\DLLs\\_bz2.pyd', 'EXTENSION'),
+  ('_ctypes.pyd', 'C:\\Python313\\DLLs\\_ctypes.pyd', 'EXTENSION'),
+  ('_decimal.pyd', 'C:\\Python313\\DLLs\\_decimal.pyd', 'EXTENSION'),
+  ('_hashlib.pyd', 'C:\\Python313\\DLLs\\_hashlib.pyd', 'EXTENSION'),
+  ('_lzma.pyd', 'C:\\Python313\\DLLs\\_lzma.pyd', 'EXTENSION'),
+  ('_socket.pyd', 'C:\\Python313\\DLLs\\_socket.pyd', 'EXTENSION'),
+  ('_ssl.pyd', 'C:\\Python313\\DLLs\\_ssl.pyd', 'EXTENSION'),
+  ('base_library.zip',
+   'C:\\Users\\kaio.santos\\OneDrive - Administrativo - '
+   'Unicesumar\\Documentos\\BAT\\Automatic_host\\build\\rename_computer\\base_library.zip',
+   'DATA'),
+  ('libcrypto-3.dll', 'C:\\Python313\\DLLs\\libcrypto-3.dll', 'BINARY'),
+  ('libffi-8.dll', 'C:\\Python313\\DLLs\\libffi-8.dll', 'BINARY'),
+  ('libssl-3.dll', 'C:\\Python313\\DLLs\\libssl-3.dll', 'BINARY'),
+  ('pyexpat.pyd', 'C:\\Python313\\DLLs\\pyexpat.pyd', 'EXTENSION'),
+  ('python313.dll', 'C:\\Python313\\python313.dll', 'BINARY'),
+  ('rename_computer.exe',
+   'C:\\Users\\kaio.santos\\OneDrive - Administrativo - '
+   'Unicesumar\\Documentos\\BAT\\Automatic_host\\build\\rename_computer\\rename_computer.exe',
+   'EXECUTABLE'),
+  ('select.pyd', 'C:\\Python313\\DLLs\\select.pyd', 'EXTENSION'),
+  ('unicodedata.pyd', 'C:\\Python313\\DLLs\\unicodedata.pyd', 'EXTENSION')],)
