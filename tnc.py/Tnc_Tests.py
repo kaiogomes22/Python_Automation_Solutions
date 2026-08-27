@@ -12,17 +12,13 @@ from reportlab.lib.styles import ParagraphStyle
 PASTA_DESTINO = "Relatorios_Rede"
 
 lista_alvos = [
-    "intranet.unicesumar.edu.br",
-    "studeo.unicesumar.edu.br",
-    "mundoazul.unicesumar.edu.br",
-    "unicesumar.guardafila.com.br",
-    # LYCEUM
-    "W2K19-RDCB02.ADM-CESUMAR.LOCAL",
-   
+    "google.com"
+    # Your aplication
+       
     # SERVIDORES DNS
-   "10.64.0.25", "172.16.8.2", "172.16.8.3"
+  
     #PRINT SERVER
-    "w2k19-cta-app01.adm-cesumar.local",
+   
     
 #    "amazon.com"
 ]
